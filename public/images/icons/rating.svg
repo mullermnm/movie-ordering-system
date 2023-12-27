@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 28">
+  <defs>
+    <style>.ico-ccphotos-rating .cls-1{fill:#555;} .ico-ccphotos-rating .cls-2{fill:none;}</style>
+  </defs>
+  <title>Asset 3</title>
+  <g class="ico-ccphotos-rating" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="S-FStar1">
+        <g id="_Group_" data-name="&lt;Group&gt;">
+          <polyline class="cls-1" points="8.5 5.68 10.4 11 15.5 11 11.34 14.16 12.83 19.67 8.5 16.39 4.17 19.68 5.66 14.16 1.5 11 6.6 11 8.5 5.68"/>
+        </g>
+        <rect class="cls-2" width="17" height="28"/>
+      </g>
+    </g>
+  </g>
+</svg>

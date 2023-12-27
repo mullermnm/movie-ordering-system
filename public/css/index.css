@@ -1,0 +1,14 @@
+.logo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    size: 70px;
+    color: aliceblue;
+    width: 250px;
+
+}
+.header__logo a {
+    width: 250px;
+    height: 45px;
+}
+.admin_login {
+    width: 100%;
+}
